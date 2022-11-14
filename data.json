@@ -1,0 +1,137 @@
+[
+  {
+    "_id": "62cbbdcc4a2c2c8385902cbb",
+    "index": 0,
+    "guid": "9811badb-4bc5-4abc-979c-683a47fa25af",
+    "isActive": true,
+    "balance": "$1,448.12",
+    "picture": "http://placehold.it/32x32",
+    "age": 40,
+    "eyeColor": "brown",
+    "name": "Candy Foreman",
+    "gender": "female",
+    "company": "COMVEY",
+    "email": "candyforeman@comvey.com",
+    "phone": "+1 (968) 461-3871",
+    "address": "293 Sands Street, Walker, Idaho, 5212",
+    "about": "Enim et aute veniam exercitation non aliquip veniam. Duis fugiat sunt non elit aliqua commodo enim in non officia cupidatat. Ea et adipisicing mollit consequat pariatur nostrud occaecat consectetur adipisicing magna aliqua consectetur amet elit. Pariatur officia dolore proident occaecat magna esse duis deserunt esse excepteur officia ullamco. Consequat exercitation ullamco reprehenderit sint incididunt nulla ipsum velit eu aliqua duis veniam sint cillum.\r\n",
+    "registered": "2022-07-03T02:24:10 -06:-30",
+    "latitude": 80.88032,
+    "longitude": -135.406878,
+    "tags": [
+      "veniam",
+      "laborum",
+      "magna",
+      "excepteur",
+      "voluptate",
+      "elit",
+      "nisi"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Ortiz Herring"
+      },
+      {
+        "id": 1,
+        "name": "John Valenzuela"
+      },
+      {
+        "id": 2,
+        "name": "Contreras Weeks"
+      }
+    ],
+    "greeting": "Hello, Candy Foreman! You have 4 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "62cbbdcce01e79caae750459",
+    "index": 1,
+    "guid": "83e12b9d-02fe-4421-b26d-4403ba925328",
+    "isActive": false,
+    "balance": "$2,084.73",
+    "picture": "http://placehold.it/32x32",
+    "age": 26,
+    "eyeColor": "blue",
+    "name": "Rich Johnson",
+    "gender": "male",
+    "company": "PEARLESEX",
+    "email": "richjohnson@pearlesex.com",
+    "phone": "+1 (819) 486-2794",
+    "address": "156 Herkimer Street, Bedias, Pennsylvania, 8790",
+    "about": "Consequat ut dolor cupidatat ut. Dolore sunt consequat Lorem in reprehenderit deserunt do proident quis. In aliquip commodo aliquip aute esse id cillum cillum nisi in proident duis minim labore.\r\n",
+    "registered": "2022-03-12T07:43:33 -06:-30",
+    "latitude": 49.930322,
+    "longitude": 88.404131,
+    "tags": [
+      "amet",
+      "nisi",
+      "aliquip",
+      "veniam",
+      "nostrud",
+      "commodo",
+      "laborum"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Holcomb Spears"
+      },
+      {
+        "id": 1,
+        "name": "Morales Moss"
+      },
+      {
+        "id": 2,
+        "name": "Brenda Griffin"
+      }
+    ],
+    "greeting": "Hello, Rich Johnson! You have 4 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "62cbbdccb0591978f896f3d7",
+    "index": 2,
+    "guid": "ea9d4aa8-0d1c-44f7-98d0-d2808b794d13",
+    "isActive": true,
+    "balance": "$1,903.61",
+    "picture": "http://placehold.it/32x32",
+    "age": 35,
+    "eyeColor": "brown",
+    "name": "Schultz Curry",
+    "gender": "male",
+    "company": "XTH",
+    "email": "schultzcurry@xth.com",
+    "phone": "+1 (921) 403-3305",
+    "address": "435 Seagate Terrace, Grimsley, Alabama, 9878",
+    "about": "Non sit Lorem consequat culpa amet enim dolore id sint. Voluptate esse officia cillum occaecat Lorem nisi labore tempor occaecat ex culpa. Nisi laboris Lorem minim ea culpa aliqua veniam dolor.\r\n",
+    "registered": "2017-07-20T04:03:32 -06:-30",
+    "latitude": -76.826723,
+    "longitude": -8.486338,
+    "tags": [
+      "esse",
+      "tempor",
+      "ullamco",
+      "pariatur",
+      "dolor",
+      "consequat",
+      "Lorem"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Nichole Holland"
+      },
+      {
+        "id": 1,
+        "name": "Gray Ware"
+      },
+      {
+        "id": 2,
+        "name": "Yates White"
+      }
+    ],
+    "greeting": "Hello, Schultz Curry! You have 8 unread messages.",
+    "favoriteFruit": "apple"
+  }
+]
